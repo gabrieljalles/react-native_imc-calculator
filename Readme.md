@@ -24,8 +24,4 @@
 
 _______
 
-<img src='../onebithealth/imagens_projeto/image1.png' width="300" height="500">
-
-<img src='../onebithealth/imagens_projeto/image2.png' width="300" height="500">
-
 
